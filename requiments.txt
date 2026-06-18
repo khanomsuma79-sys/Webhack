@@ -3,4 +3,3 @@ cryptography
 scapy
 paramiko
 Flask
-requests
