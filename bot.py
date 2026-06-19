@@ -4,7 +4,7 @@ import json
 import time
 import random
 import string
-import requests
+import httpx
 import phonenumbers
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Updater, CommandHandler, CallbackQueryHandler, CallbackContext, MessageHandler, Filters
