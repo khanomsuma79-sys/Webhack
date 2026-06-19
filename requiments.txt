@@ -1,5 +1,3 @@
-pyTelegramBotAPI
-cryptography
-scapy
-paramiko
-Flask
+python-telegram-bot==13.15
+requests
+Pillow
